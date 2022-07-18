@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sypleks
-- 👩‍💻 Doing programming as a hobby
-- 📒 Currently learning Python
+- Mediocre python programmer (not a pythonista)
+- Doing this as a hobby (all my repos are private!!)
+- 🗿🗿🗿🗿 <- moyai
 
 <!---
 sypleks/sypleks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
